@@ -1,16 +1,24 @@
 # designa_app
 
-A new Flutter project.
+- [App Link Here for testing](lib\apk\app-release.apk)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Photo Samples for UI Design - Responsive Device Screens
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  <tr>
+    <td><img src="lib\apk\Small1.png" alt="Image 1" width=""/></td>
+    <td><img src="lib\apk\Small2.png" alt="Image 2" width=""/></td>
+    <td><img src="lib\apk\Small3.png" alt="Image 3" width=""/></td>
+  </tr>
+</table>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ## Tablet UI:
+  <tr>
+    <td><img src="lib\apk\Big1.png" alt="Image 4" width=""/></td>
+    <td><img src="lib\apk\Big2.png" alt="Image 5" width=""/></td>
+    <td><img src="lib\apk\Big3.png" alt="Image 6" width=""/></td>
+  </tr>
+
+
