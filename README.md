@@ -1,6 +1,6 @@
 # designa_app
 
-- [App Link Here for testing](lib\apk\app-release.apk)
+- [App Link Here for testing](lib/apk/app-release.apk)
 
 
 ## Photo Samples for UI Design - Responsive Device Screens
